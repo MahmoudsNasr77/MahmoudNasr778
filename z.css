@@ -1,0 +1,228 @@
+*{
+    font-family: inherit;
+    margin: 0;
+}
+.div1{
+    background: #feda6a;
+    height: 900px;
+    color: white;
+    color: #1d1e22
+    
+    
+}
+.div1 nav ul li{
+    display: block;
+    float: right;
+    margin-right: 15px;
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+    color:#1d1e22
+        
+}
+#li1:hover{
+    cursor: pointer;
+    color: red
+}
+#li2:hover{
+    cursor: pointer;
+    color: yellow
+}
+#li3:hover{
+    cursor: pointer;
+    color: white
+}
+#li4:hover{
+    cursor: pointer;
+    color: black
+}
+#h2{
+    text-align: center;
+    border-radius: 10px;
+}
+#s1{
+    color: red;
+    font-family: cursive
+}
+#s2{
+    color: yellow
+}
+#s3{
+    color: black;
+}
+#img1{
+    width: 500px;
+    height: 300px;
+    border-radius: 100px;
+    margin-right: 20px;
+    margin-top: 80px
+}
+#img2{
+    width: 500px;
+    height: 300px;
+    border-radius: 100px;
+    margin-left: 1450px;
+    margin-top: 80px
+    
+}
+#img3{
+     width: 500px;
+    height: 300px;
+    border-radius: 100px;
+    margin-left: 1100px;
+    margin-right: 80px;
+    margin-bottom: 40px;
+    top:240px;
+    
+    
+}
+.div1 p{
+    font-size: 20px;
+    text-align: center;
+    font-family: cursive;
+    margin-right: 80px;
+    margin-bottom: 190px;
+    position: static;
+    color: #1d1e22
+    
+        
+}
+.div2{
+    width: 400px;
+    height: 500px;
+    border: 1px solid white;
+    border-radius: 90px;
+    background:#1d1e22;
+    float: left;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-left: 500px;
+    margin-left: 750px;
+   
+            
+}
+.div2 p{
+    margin-left: 50px;
+    top: 0px;
+    font-family: cursive;
+    font-size: 18px;
+    text-align: center;
+    color: white;
+    
+}
+#img4{
+    width: 150px;
+    height: 150px;
+    border-radius: 120px;
+    margin-left: 140px;
+    margin-top: 40px
+
+
+}
+.div3{
+    width: 400px;
+    height: 500px;
+    border: 1px solid white;
+    border-radius: 90px;
+    background:#1d1e22;
+    float: left;
+    margin-top: 20px;
+    margin-left: 300px;
+    margin-bottom: 10px;  
+}
+.div3 h4{
+    font-family: cursive;
+    text-align: center;
+    color: white;
+}
+.div3 input{
+    display: block;
+    margin-top: 10px;
+    margin-left: 110px;
+    
+}
+#b1{
+    border-radius: 10px;
+    color: white;
+    background: #123;
+    margin-left: 130px;
+    margin-top: 20px;
+    font-family: fantasy;
+    width: 100px;   
+    
+}
+#se{
+    margin-left: 40px;
+    display: block;
+    margin-top: 30px;
+    margin-left: 120px;
+    text-align: center;
+    color: black
+}
+#img5{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    margin-top: 20px;
+    margin-left: 90px; 
+}
+.div2 h6{
+    margin-top: 20px;
+    font-size: 20px;
+    color: white;
+    text-align: center
+        
+}
+#img6{
+    width: 60px;
+    height: 60px;
+    border-radius: 100px;
+    margin-top: 20px;
+    display: block;
+    float: left;
+    cursor: pointer;
+    margin-left: 100px;
+}
+#img7{
+    width: 60px;
+    height: 60px;
+    border-radius: 100px;
+    margin-top: 20px;
+    display: block;
+    float: left;
+    cursor: pointer;
+        margin-left: 25px
+}
+.div4{
+    width: 2600px;
+    height: 500px;
+    border-radius: 20px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px
+}
+.div4 img{
+    width: 420px;
+    height: 400px;
+    margin-top: 10px;
+    margin-left: 10px; 
+    display: block;
+    float: left;
+    border-radius: 50px;
+}
+.div6{
+    border-top: 1px  solid #fbaf08 ;
+    margin-top: 10px;
+}
+.main{
+    background-color: #1d1e22;
+    width: 2880px;
+    height: 1200px
+}
+footer
+{
+  background: #FFF;
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+}
